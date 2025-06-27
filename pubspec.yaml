@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^9.1.1
+  flutter_native_splash: ^2.4.6
   get_it: ^8.0.3
   shared_preferences: ^2.5.3
   svg_flutter: ^0.0.1
